@@ -1,4 +1,4 @@
-nodejs-run
+nodejs-8-run
 ================
 
 You see [docker hub](https://hub.docker.com/r/peter1209/nodejs-8-run/), too.
