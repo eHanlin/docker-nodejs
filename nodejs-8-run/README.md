@@ -24,6 +24,6 @@ The container will run `main` of `package.json`, and , **expose 8080 port (defau
 
 ## Run command：
 ```
-docker run -p 8080:8080 -it peter1209/nodejs-run http://your.source.com/test.zip
+docker run -p 8080:8080 -it peter1209/nodejs-8-run http://your.source.com/test.zip
 ```
 
