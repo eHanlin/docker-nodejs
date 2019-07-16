@@ -1,5 +1,5 @@
 
-FROM node:9
+FROM node:12
  
 MAINTAINER sparrow.jang <sparrow.jang@gmail.com>
 ENV HOME=/root SERVICE_TAGS=nodejs
